@@ -8,7 +8,7 @@
 
 - Recursive struct resolution (follows nested definitions)
 - Outputs typedef-ready C headers for reverse engineering
-- Optimized for Ghidra, IDA Pro, or other RE tools
+- Optimized for Ghidra
 - Multi-threaded scraping for fast performance
 - Supports various Windows versions and releases
 
